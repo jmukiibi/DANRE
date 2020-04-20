@@ -57,10 +57,10 @@
                                     P.O.BOX 7062, Kampala.
                                     Telephone: 0414531152  
                                     Fax : 0414531641
-                                    Email :
-                                <script type="text/javascript">
-                                    MyEmail=('kigandaivan32@'+'gmail.com')
-                                    document.write('<a href="mailto:"'+ MyEmail + '">'+MyEmail + '</a>')
+                                    <!-- Email : -->
+                                <!-- <script type="text/javascript"> -->
+                                    <!-- MyEmail=('kigandaivan32@'+'gmail.com') -->
+                                    <!-- document.write('<a href="mailto:"'+ MyEmail + '">'+MyEmail + '</a>') -->
                                 </script>
                                 </p>
 							    </address>
@@ -146,22 +146,53 @@
 
                                     <div id="faculty">
                                         <h4>Faculty & Staff</h4>
-                                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                                         Suscipit voluptatum dicta voluptates fugiat quisquam veniam 
-                                         vero inventore cum assumenda aliquam? Nulla fugit magnam 
-                                         laudantium odit odio provident vero neque expedita.</p>
-                                    </div>
+                                        <p>At DANRE the programs are run by well qualified core staff of the department supplemented
+                                            by a team of experienced part time staff. DANRE presently has 20 core staff of which 17 have PhDs.
+                                            All MSc holders are at various stages of completing their PhD studies.
+                                        </p></div>
 
                                 </section>
                             </div>
-
                         </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h4 class="card-text">Head of Department</h4> 
+                                <div class="card" style="width:400px">
+                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:100%">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Dr.Elepu Gabriel (PHD)</h5>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <h4>Physical Resources</h4>
+                                <p>DANRE shares a well stocked library at the College level containing 
+                                    relevant reference books , a computer laboratory and photocopying facilities.
+                                </p>
+                                   <p>
+                                        The computer laboratory ahs uptodate software package and is 
+                                        connected to the University's LAN which allows good internet access for all
+                                        our students.
+                                   </p>
+                                   <p>
+                                    Effective use of these departmental/College level computing ,research and library 
+                                    facilities greatly assists students pursuing various courses in the department. 
+                                    
+                                   </p>
+                                   <p>
+                                        Lecture and conference rooms are shared at the College level.
+                                   </p>
+                            </div>
+                        
+                        </div>
+                        <hr>
                         <div class="row">
                             <div class="col-md-3">
                                 <div class="card" style="width:400px">
                                 <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Mrs.Turinawe Alice (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
@@ -171,7 +202,7 @@
                                 <div class="card" style="width:400px">
                                 <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Prof.Johnny Mugisha (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
@@ -180,7 +211,7 @@
                                 <div class="card" style="width:400px">
                                 <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Prof.Bernard Bashaasha (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
@@ -189,46 +220,7 @@
                                 <div class="card" style="width:400px">
                                 <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
-                                        <p class="card-text">Position</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-3">
-                                <div class="card" style="width:400px">
-                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
-                                    <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
-                                        <p class="card-text">Position</p>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <div class="col-md-3">
-                                <div class="card" style="width:400px">
-                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
-                                    <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
-                                        <p class="card-text">Position</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3">
-                                <div class="card" style="width:400px">
-                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
-                                    <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
-                                        <p class="card-text">Position</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3">
-                                <div class="card" style="width:400px">
-                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
-                                    <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Prof.Buyinza Mukadisi (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
@@ -239,7 +231,7 @@
                                 <div class="card" style="width:400px">
                                 <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Prof.W.Gombya Ssembajwe (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
@@ -249,7 +241,7 @@
                                 <div class="card" style="width:400px">
                                 <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Prof.Dick Sserunkuuma (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
@@ -258,7 +250,7 @@
                                 <div class="card" style="width:400px">
                                 <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Prof.Theodora Hyuha (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
@@ -267,7 +259,7 @@
                                 <div class="card" style="width:400px">
                                 <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Mr.Bagamba Fred (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
@@ -278,7 +270,7 @@
                                 <div class="card" style="width:400px">
                                 <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Mr.Ekere William (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
@@ -288,7 +280,7 @@
                                 <div class="card" style="width:400px">
                                 <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Mrs.Bonabana Jackie (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
@@ -297,7 +289,46 @@
                                 <div class="card" style="width:400px">
                                 <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Mr.Walekhwa Peter (PHD)</h5>
+                                        <p class="card-text">Position</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card" style="width:400px">
+                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Mr.Diiro Deogracious (PHD)</h5>
+                                        <p class="card-text">Position</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-3">
+                                <div class="card" style="width:400px">
+                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Mr.Tatwangire Alex (PHD)</h5>
+                                        <p class="card-text">Position</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card" style="width:400px">
+                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Mr.Ilukor John (PHD)</h5>
+                                        <p class="card-text">Position</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card" style="width:400px">
+                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Mrs. Isoto RoseMary (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
@@ -306,12 +337,52 @@
                                 <div class="card" style="width:400px">
                                     <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
                                     <div class="card-body">
-                                        <h4 class="card-title">Mr.T</h4>
+                                        <h5 class="card-title">Mrs.Balirwa Elizabeth (PHD)</h5>
                                         <p class="card-text">Position</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-md-3">
+                                <div class="card" style="width:400px">
+                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Mr.Omiat George (PHD)</h5>
+                                        <p class="card-text">Position</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card" style="width:400px">
+                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Mrs.Lwiza Florence (MSC)</h5>
+                                        <p class="card-text">Position</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card" style="width:400px">
+                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Ahikiriza (MSC)</h5>
+                                        <p class="card-text">Position</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="card" style="width:400px">
+                                <img class="card-img-top" src="../images/me.jpg" alt="Card image" style="width:65%">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Mr.Bukenya Mohamed (MSC)</h5>
+                                        <p class="card-text">Position</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
                         <hr>
                         <!-- admissions -->
                         <div class="panel-body" id="admissions">

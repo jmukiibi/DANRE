@@ -57,11 +57,11 @@
                                     P.O.BOX 7062, Kampala.
                                     Telephone: 0414531152  
                                     Fax : 0414531641
-                                    Email :
-                                <script type="text/javascript">
-                                    MyEmail=('kigandaivan32@'+'gmail.com')
-                                    document.write('<a href="mailto:"'+ MyEmail + '">'+MyEmail + '</a>')
-                                </script>
+                                 <!-- Email : -->
+                                <!-- <script type="text/javascript"> -->
+                                    <!-- MyEmail=('kigandaivan32@'+'gmail.com') -->
+                                    <!-- document.write('<a href="mailto:"'+ MyEmail + '">'+MyEmail + '</a>') -->
+                                    </script>
                                 </p>
 							    </address>
                             
