@@ -57,10 +57,10 @@
                                     P.O.BOX 7062, Kampala.
                                     Telephone: 0414531152  
                                     Fax : 0414531641
-                                    Email :
-                                <script type="text/javascript">
-                                    MyEmail=('kigandaivan32@'+'gmail.com')
-                                    document.write('<a href="mailto:"'+ MyEmail + '">'+MyEmail + '</a>')
+                                  <!-- Email : -->
+                                <!-- <script type="text/javascript"> -->
+                                    <!-- MyEmail=('kigandaivan32@'+'gmail.com') -->
+                                    <!-- document.write('<a href="mailto:"'+ MyEmail + '">'+MyEmail + '</a>') -->
                                 </script>
                                 </p>
 							    </address>
@@ -145,10 +145,22 @@
         <h4 class="font-light">
                         Research in Agriculture
                     </h4>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Eveniet alias dignissimos quas adipisci voluptate magni fugiat 
-          pariatur eaque, quidem, inventore in mollitia ipsum laboriosam 
-          consequuntur veritatis commodi quibusdam exercitationem consectetur?</p>
+         <p>
+            DANRE's academic staff frequently conduct research and consultancies in several areas
+            based on their interests. The main areas of research currently include :
+        </p>
+            <ol>
+                <li>Production Economics</li>
+                <li>Marketing Agricultural Policy issues</li>
+                <li>Gender issues in Agriculture</li>
+                <li>Issues in Environmental Economics</li>
+                <li>Waste Management</li>
+                <li>Adoption Studies</li>
+            </ol>
+         <p>Papers from these studies are normally published in several internationally peer reviewed
+            journals including the flagship juornal of the Department -The Eastern African Journal 
+            of Rural Development.
+         </p>
                 </div>
 
             </div>

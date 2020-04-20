@@ -58,10 +58,10 @@
                                     P.O.BOX 7062, Kampala.
                                     Telephone: 0414531152  
                                     Fax : 0414531641
-                                    Email :
-                                <script type="text/javascript">
-                                    MyEmail=('kigandaivan32@'+'gmail.com')
-                                    document.write('<a href="mailto:"'+ MyEmail + '">'+MyEmail + '</a>')
+                                    <!-- Email : -->
+                                <!-- <script type="text/javascript"> -->
+                                    <!-- MyEmail=('kigandaivan32@'+'gmail.com') -->
+                                    <!-- document.write('<a href="mailto:"'+ MyEmail + '">'+MyEmail + '</a>') -->
                                 </script>
                                 </p>
 							    </address>
@@ -407,8 +407,11 @@
                 <div class="col-md-4">
                     <div class="panel-body bg-success" style="color:white;text-align:center;">
                         <h5>
-                            Academics & Admissions
+                            Academic Programs
                         </h5>
+                        <p>DANRE runs two Undergraduate and three Graduate programs. These include the following 
+                            programs.
+                        </p>
                         <i class="fa fa-arrow-down"></i>
                     </div>
                 </div>
@@ -416,6 +419,7 @@
      <section class="text-center cs-One-2-One">
             <div class="container">
             <div class="row">
+
                 <div class="margin-t-60 btn-group col-md-4 col-xs-12">
                     <div class="panel dark package ">
                         <h3 class="margin-t-30">
@@ -424,22 +428,10 @@
                         <div class="panel-body">
 
                             <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The BSc in Veterinary Medicine 
+								 BSc in Agriculture 
 							</p>
                             <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The BSc in Biomedical Sciences 
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The BSc in Agricultural Science 
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The BSc in WildLife Management 
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The BSc in Water Engineering
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The BSc in Agricultural Management
+								 Bachelor of Agribusiness Management
 							</p>
                             
                         </div>
@@ -454,24 +446,11 @@
                         </h3>
                         <div class="panel-body">
                         <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The Msc in Veterinary Medicine 
+								 Masters in Agribusiness Management
 							</p>
                             <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The Msc in Biomedical Sciences 
+								 Msc Agricultural and Applied Economics 
 							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The Msc in Agricultural Science 
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The Msc in WildLife Management 
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The Msc in Water Engineering
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The Msc in Agricultural Management
-							</p>
-                            
                         </div>
                     </div>
                 </div>
@@ -484,22 +463,7 @@
                         </h3>
                         <div class="panel-body">
                         <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The PhD in Veterinary Medicine 
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The PhD in Biomedical Sciences 
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The PhD in Agricultural Science 
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The PhD in WildLife Management 
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The PhD in Water Engineering
-							</p>
-                            <p class="lead text-left"><i class="fa fa-check" aria-hidden="true"></i>
-								The PhD in Agricultural Management
+								PhD Agricultural Economics
 							</p>
                             
                         </div>
