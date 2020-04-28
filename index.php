@@ -29,11 +29,17 @@
             padding: 10px;
         }
         ul.dropdown-menu li a{
-            color:#10FF22;
+            color:black;
             /* color:rgba(10,240,70,1); */
          }
          header{font-family:lucida;}
          header a,header a:hover{color:black;}
+        div.dropdown-menu a.dropdown-item{
+            color:black;
+        }
+        ul.dropdown-menu a.dropdown-item:hover{
+            color:black;
+        }
     </style>
 </head>
 <body>
@@ -98,8 +104,17 @@
 <li >
 <a href="./views/aboutus.php#admissions">Admissions </a>
 </li>
-<li>
-<a href="./views/curriculum.php">Curriculum</a>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">Curriculum <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a class="dropdown-item" href="./views/course1.php">BSc.Agriculture</a></li>
+<li><a class="dropdown-item" href="./views/course2.php">Bachelor of Agribusiness Management</a></li>
+<li><a class="dropdown-item" href="./views/course3.php">Masters in Agribusiness Management</a></li>
+<li><a class="dropdown-item" href="./views/course4.php">MSc. Agricultural and Applied Economics</a></li>
+<li><a class="dropdown-item" href="./views/course5.php">PhD Agricultural Economics</a></li>
+
+
+</ul>
 </li>
 <li class="">
 <a href="#newssection">News &amp;Events</a>
