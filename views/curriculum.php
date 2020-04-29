@@ -1,4 +1,4 @@
-
+<!-- 
 <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -28,11 +28,17 @@
             padding: 10px;
         }
         ul.dropdown-menu li a{
-            color:#10FF22;
+            color:black;
             /* color:rgba(10,240,70,1); */
          }
          header{font-family:lucida;}
          header a,header a:hover{color:black;}
+        div.dropdown-menu a.dropdown-item{
+            color:black;
+        }
+        ul.dropdown-menu a.dropdown-item:hover{
+            color:black;
+        }
     </style>
 </head>
 <body>
@@ -64,8 +70,6 @@
                                     </script>
                                 </p>
 							    </address>
-                            
-
                         </div>
 
                     </div>
@@ -99,6 +103,18 @@
 </li>
 <li>
 <a href="aboutus.php#admissions">Admissions</a>
+</li>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">Curriculum <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a class="dropdown-item" href="course1.php">BSc.Agriculture</a></li>
+<li><a class="dropdown-item" href="course2.php">Bachelor of Agribusiness Management | BABM</a></li>
+<li><a class="dropdown-item" href="course3.php">Masters in Agribusiness Management</a></li>
+<li><a class="dropdown-item" href="course4.php">MSc. Agricultural and Applied Economics</a></li>
+<li><a class="dropdown-item" href="course5.php">PhD Agricultural Economics</a></li>
+
+
+</ul>
 </li>
 <li class="active">
 <a href="curriculum.php">Curriculum</a>
@@ -144,8 +160,8 @@
                     <div id="breadcrumb" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 breadcrumb">
                         <h4 class="font-light">
                         <div id="curriculum-accordion"></div>
-                            Courses :<span data-toggle="collapse" data-parent="#curriculum-accordion" data-target="#curriculum-collapsefirst">Course A</span>|<span data-toggle="collapse" data-parent="#curriculum-accordion" data-target="#curriculum-collapse1">Course B</span>|<span data-toggle="collapse" data-parent="#curriculum-accordion" data-target="#curriculum-collapse2">Course C</span>|
-                            <span data-toggle="collapse" data-parent="#curriculum-accordion" data-target="#curriculum-collapse3">Course D</span>
+                            Courses :<span data-toggle="collapse" data-parent="#curriculum-accordion" data-target="#curriculum-collapsefirst">BSc. Agriculture</span>|<span data-toggle="collapse" data-parent="#curriculum-accordion" data-target="#curriculum-collapse1">Bachelor of Agribusiness Management</span>|<span data-toggle="collapse" data-parent="#curriculum-accordion" data-target="#curriculum-collapse2">Masters in Agribusiness Management</span>|
+                            <span data-toggle="collapse" data-parent="#curriculum-accordion" data-target="#curriculum-collapse3">MSc.Agricultural and Applied Economics</span>
                         </h4>
                                    
                     </div>
@@ -4428,4 +4444,4 @@
 
 
     </body>
-    </html>
+    </html> -->
